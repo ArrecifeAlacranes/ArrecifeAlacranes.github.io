@@ -1,4 +1,2 @@
 title: BMCC Health & Wellness
-color_theme:  "#0081ff"
-color_text:  "#fff"
-theme: jekyll-help-center-theme
+theme: minima
