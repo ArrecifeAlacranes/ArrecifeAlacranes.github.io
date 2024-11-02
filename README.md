@@ -1,2 +1,2 @@
-# BMCC Health & Wellness
-## Chatbot:
+# Chatbot
+## Code:
